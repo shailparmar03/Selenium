@@ -1,0 +1,3 @@
+username,password,expected_error_message
+students,Password123,Your username is invalid!
+student,Password1234,Your password is invalid!

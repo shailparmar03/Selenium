@@ -1,0 +1,5 @@
+geckodriver
+.pytest_cache
+.idea
+_pycache_
+main1.py
